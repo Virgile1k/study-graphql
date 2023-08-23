@@ -1,0 +1,25 @@
+{
+  "name": "study-graphql",
+  "version": "1.0.0",
+  "description": "project for graphql study",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virgile1k/study-graphql.git"
+  },
+  "author": "virgile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virgile1k/study-graphql/issues"
+  },
+  "homepage": "https://github.com/Virgile1k/study-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.8.0",
+    "nodemon": "^3.0.1"
+  }
+}
