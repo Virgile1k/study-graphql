@@ -1,0 +1,6 @@
+ previewsEnabled: true
+previewsExpireAfterDays: 3services:
+- type: web
+  plan: standard
+  name: express-server
+  runtime: node
